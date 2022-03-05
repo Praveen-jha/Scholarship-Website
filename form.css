@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.item1{
+    font-size: 20px;
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px 5px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 20px;
+}
